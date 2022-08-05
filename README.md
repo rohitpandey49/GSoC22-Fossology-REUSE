@@ -83,8 +83,8 @@ GSoC’22 Community Bonding period with Fossology|[Click here](https://medium.co
 ## Coding Period 2 - July 25th to September 5th, 2022
 | Week Number | Weekly Summary|
 | --- | ---|
-**WEEK 7** |[Coding Period 2 week 7]
-**WEEK 8** |[Coding Period 2 week 8]
+**WEEK 7** |[Coding Period 2 week 7](/meeting%20notes/Week7.md)
+**WEEK 8** |[Coding Period 2 week 8](/meeting%20notes/Week8.md)
 **WEEK 9** |[Coding Period 2 week 9]
 **WEEK 10** | [Coding Period 2 week 10]
 **WEEK 11** | [Coding Period 2 week 11]
