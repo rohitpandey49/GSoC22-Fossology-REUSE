@@ -57,9 +57,9 @@ FOSSology currently uses old methods of defining licenses on source files. Follo
 
 | Tasks   | Planned | Completed     | Remarks    |
 | :---:       |    :----:   |    :---:      |    :---:      |
-| Make Fossology REUSE Conpliant     | Yes       | :heavy_check_mark: | REUSE Standard implemented and raised pull request to branch `contrib/reuse/change-repo-standard` |
-| Support the SPDX-FileCopyrightText keyword explicitly in the copyright agent   | Yes        | :heavy_check_mark:  |  |
-| Copy Copyright finding of .license file to associated file| Yes | :x: |  |
+| Make Fossology REUSE Conpliant     | Yes       | :heavy_check_mark: | REUSE Standard implemented and pull request merged to `master` branch |
+| Support the SPDX-FileCopyrightText keyword explicitly in the copyright agent   | Yes        | :heavy_check_mark:  | Pull request is in progress |
+| Copy Copyright finding of .license file to associated file| Yes | :heavy_check_mark: | Pull request is in progress |
 | Detect LICENSES/ directory | Yes | :x: |    |
 
 <h1 align="center">ACTIVITY REPORTS</h1>

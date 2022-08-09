@@ -4,7 +4,7 @@ author: Rohit Pandey
 author_url: https://github.com/rohitpandey49
 ---
 
-# GSoC Week 6
+# GSoC Week 7
 
 ## Updates
 
