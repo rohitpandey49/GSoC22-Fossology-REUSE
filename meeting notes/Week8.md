@@ -14,3 +14,4 @@ author_url: https://github.com/rohitpandey49
 - I created documentation on Copyright and Licensing styles and presented it to mentors. Mentors were pleased with the documentation and asked me to update the reso agent's documentation as well.
 -As I am unable to push the wiki changes into the Fossology repository, I asked mentors how to do so.
 - I discussed with mentors whether it is necessary to trigger the copyright agent, even if it was not selected when the file was uploaded, in the case of the reso agent. Mentors advised not to do so now because it would create a problem with the clearing decision. If reso agent triggers copyright agent, it will also replace the previous status of clearing.
+- I shared my experience with the Fossology community and GSoC coding period 1 during the weekly update session. I received positive feedback on my performance from my mentors.

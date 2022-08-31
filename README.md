@@ -85,10 +85,10 @@ GSoC’22 Community Bonding period with Fossology|[Click here](https://medium.co
 | --- | ---|
 **WEEK 7** |[Coding Period 2 week 7](/meeting%20notes/Week7.md)
 **WEEK 8** |[Coding Period 2 week 8](/meeting%20notes/Week8.md)
-**WEEK 9** |[Coding Period 2 week 9]
-**WEEK 10** | [Coding Period 2 week 10]
-**WEEK 11** | [Coding Period 2 week 11]
-**WEEK 12** | [Coding Period 2 week 12]
+**WEEK 9** |[Coding Period 2 week 9](/meeting%20notes/Week9.md)
+**WEEK 10** | [Coding Period 2 week 10](/meeting%20notes/Week10.md)
+**WEEK 11** | [Coding Period 2 week 11](/meeting%20notes/Week11.md)
+**WEEK 12** | [Coding Period 2 week 12](/meeting%20notes/Week12.md)
 
 
 # Let's get connected!
