@@ -16,3 +16,9 @@ author_url: https://github.com/rohitpandey49
     - REUSE standard report should be same for the whole upload.
     - Move the class for detecting LICENSES folder under `lib/php/BusinessRules` and create a new class for comparing the data/conclusion.
     - Learned to use `PHP Unit and Functional Tests` from the CLI.
+- Cleared doubts regarding the PHP Unit and Functional test.
+
+## Conclusions and further plans
+
+- Implementation of LICENSES directory detection.
+- Solve the changes suggest by mentors on existing PR.
